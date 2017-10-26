@@ -5,7 +5,7 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 
 /**
- * Represent a process done by several IWoker
+ * Represent a process done by several IWorker
  * 
  * The Workflow could be sequential the results of the first will be passed to the next specified
  * 
