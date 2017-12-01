@@ -1,6 +1,6 @@
 ## DynamicWorkflow
 
-A P.O.C that demonstrates how to chain generic tasks in Java (async + parrallel)
+A P.O.C that demonstrates how to chain generic tasks in Java (async + parallel)
 
 ### How it works ?
 See `Main.java` some worker are provided as sample in `so.sample` in order to do some tests.
