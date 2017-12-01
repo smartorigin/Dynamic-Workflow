@@ -1,9 +1,6 @@
 ##DynamicWorkflow
 
-###What is it ?
-It's a P.O.C to illustrate how to create Dynamic chain of Worker (Workflow) in java.
-
-Could be usefull for CoreDataExtension.
+A P.O.C that demonstrates how to chain generic tasks in Java (async + parrallel)
 
 ###How it works ?
 See `Main.java` some worker are provided as sample in `so.sample` in order to do some tests.
